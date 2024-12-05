@@ -1,5 +1,7 @@
 # Citi Bike Data Reporting
 
+![Tableau Dashboard](https://github.com/rasadariranasinghe/citybiking_tableau_project/blob/main/images/Screenshot.png)
+
 Welcome to the Citi Bike Data Reporting project! As the lead analyst for the New York Citi Bike program, you are tasked with creating comprehensive reports and visualizations to support city officials in understanding and improving the city's bike-sharing program.
 
 ## Project Overview
